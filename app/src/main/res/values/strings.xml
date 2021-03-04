@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tes TRS</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+
+    <string name="email">Email Id</string>
+    <string name="password">Password</string>
+    <string name="ulangi_password">Ulangi Password</string>
+    <string name="login">GABUNG</string>
+    <string name="show_pwd">Tampilkan Kata Sandi</string>
+    <string name="hide_pwd">Sembunyikan Kata Sandi</string>
+    <string name="forgot">Lupa Sandi?</string>
+    <string name="newUser">Belum menjadi anggota? Daftar disini.</string>
+    <string name="fullName">Nama lengkap</string>
+    <string name="mobileNumber">Nomor handphone</string>
+    <string name="emailAddress">Email</string>
+    <string name="emailPhone">Email</string>
+    <string name="confirmPassword">Konfirmasi Sandi</string>
+    <string name="terms_conditions">Dengan mengklik Daftar, Anda menyetujui semua Syarat dan Ketentuan.</string>
+    <string name="signUp">DAFTAR</string>
+    <string name="submit">LANJUT</string>
+    <string name="back">KEMBALI</string>
+    <string name="logout">Keluar</string>
+    <string name="please_wait">Tunggu</string>
+    <string name="welcome">Hi Guest, </string>
+    <string name="already_user">Sudah punya akun? Masuk disini.</string>
+    <string name="password_differents">Password baru dan Ulangi password baru tidak sama.</string>
+    <string name="password_min_length">Panjang password minimal 6 karakter.</string>
+    <string name="password_rules">Password harus mninimal memiliki 1 huruf kecil, 1 huruf besar, 1 angka dan 1 simbol</string>
+
+
+</resources>
